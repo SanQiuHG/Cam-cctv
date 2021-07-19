@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 #-*- coding: utf-8 -*-
 #github.com/AngelSecurityTeam/Cam-Hackers
+clear
 
 import requests, re , colorama
 colorama.init()
